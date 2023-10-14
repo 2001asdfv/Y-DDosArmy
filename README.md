@@ -8,9 +8,13 @@ They target a wide variety of important resources from banks to news websites,
 and present a major challenge to making sure people can publish and access important information
 
 Dwonload&Install
+
 git clone https://github.com/2001asdfv/Y-DDosArmy.git
+
 cd DDos-Attack
+
 chmod +x Y-DDos-attack.py
+
 python3 Y-DDos-attack.py
 
 ScreenShot
