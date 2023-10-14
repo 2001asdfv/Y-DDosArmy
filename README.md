@@ -19,4 +19,5 @@ python3 Y-DDos-attack.py
 
 ScreenShot
 
-![Y-DDos-attack](https://github.com/2001asdfv/Y-DDosArmy/assets/114175930/e6fa72c7-ca67-4947-9c06-3bcdf235068e)
+
+![1](https://github.com/2001asdfv/Y-DDosArmy/assets/114175930/443b3e58-71ca-4735-8b13-6ebbd69e3534)
