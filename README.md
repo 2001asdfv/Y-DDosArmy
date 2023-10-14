@@ -13,9 +13,9 @@ git clone https://github.com/2001asdfv/Y-DDosArmy.git
 
 cd DDos-Attack
 
-chmod +x Y-DDos-attack.py
+chmod +x Y-DDosArmy.py
 
-python3 Y-DDos-attack.py
+python3 Y-DDosArmy.py
 
 ScreenShot
 
