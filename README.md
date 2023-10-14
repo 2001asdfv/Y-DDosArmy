@@ -11,7 +11,7 @@ Dwonload&Install
 
 git clone https://github.com/2001asdfv/Y-DDosArmy.git
 
-cd Y-DDosAemy
+cd Y-DDosArmy
 
 chmod +x Y-DDosArmy.py
 
